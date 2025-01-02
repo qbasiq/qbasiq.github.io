@@ -21,7 +21,7 @@
 title: qbasiq.dev
 email: q@qbasiq.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  these are the things i decided to write about
+  these are the things i decided to write
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://qbasiq.dev" 
   # twitter_username: jekyllrb
