@@ -1,1 +1,1 @@
-Github pages site at qbasiq.dev
+Github pages site at blog.qbasiq.dev
